@@ -1,0 +1,5 @@
+Daily Report for 28-07-2021
+
+visitors: 1200
+radiology: 78
+cardiology: 34

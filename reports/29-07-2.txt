@@ -1,0 +1,5 @@
+Monthly Report for 29-07-2
+
+visitors: 1300
+radiology: 85
+cardiology: 42
